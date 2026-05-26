@@ -87,7 +87,6 @@ Alongside my professional work, I create educational content through **Analytics
 
 - Building AI-powered analytics and decision-support solutions
 - Developing practical data science, machine learning, and analytics workflows
-- Creating beginner-friendly and professional tutorials on Python, SQL, SAS, and AI
 - Designing scalable analytics solutions using modern data platforms
 - Translating business problems into data-driven insights and actionable recommendations
 - Exploring Text-to-SQL systems, AI assistants, and LLM-powered analytics applications
