@@ -2,7 +2,7 @@
 
 ## Data Scientist | AI, Data Science, Python, Databricks, SQL & SAS Educator
 
-I am an experienced Data Scientist and AI professional with a strong background in healthcare analytics, commercial analytics, business intelligence, machine learning, and AI-powered data solutions. I enjoy solving real-world business problems by combining data, analytics, modern data platforms, and practical AI applications.
+I am a Data Scientist and AI professional with a strong background in healthcare analytics, commercial analytics, business intelligence, machine learning, and AI-powered data solutions. I enjoy solving real-world business problems by combining data, analytics, modern data platforms, and practical AI applications.
 
 Alongside my professional work, I create educational content through **Analytics School**, where I teach practical concepts in AI, Data Science, Python, SQL, Databricks and analytics workflows.
 
