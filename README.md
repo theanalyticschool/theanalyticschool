@@ -67,7 +67,7 @@ Alongside my professional work, I create educational content through **Analytics
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/LLM%20Apps-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Apps" />
-  <img src="https://img.shields.io/badge/Text--to--SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Text-to-SQL" />
+  <img src="https://img.shields.io/badge/Text--to--SQL-336791?style=for-the-badge&logoColor=white" alt="Text-to-SQL" />
 </p>
 
 ### Developer Tools
