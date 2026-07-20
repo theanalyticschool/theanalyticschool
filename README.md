@@ -47,34 +47,11 @@ Alongside my professional work, I create educational content through **Analytics
 ### Data Engineering & Platforms
 
 <p>
-  <img
-    src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"
-    alt="Databricks"
-    style="pointer-events: none;"
-  />
-  <img
-    src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"
-    alt="PySpark"
-    style="pointer-events: none;"
-  />
-  <img
-    src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"
-    alt="Azure"
-    style="pointer-events: none;"
-  />
-  <img
-    src="https://img.shields.io/badge/Delta%20Lake-00A1E0?style=for-the-badge&logo=databricks&logoColor=white"
-    alt="Delta Lake"
-    style="pointer-events: none;"
-  />
-</p>
-
-<!-- <p>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Delta%20Lake-00A1E0?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta Lake" />
-</p> -->
+</p>
 
 ### Databases & Business Intelligence
 
