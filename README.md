@@ -50,7 +50,6 @@ Alongside my professional work, I create educational content through **Analytics
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-00A1E0?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta Lake" />
 </p>
 
 ### Databases & Business Intelligence
@@ -69,7 +68,6 @@ Alongside my professional work, I create educational content through **Analytics
   <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/LLM%20Apps-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Apps" />
   <img src="https://img.shields.io/badge/Text--to--SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Text-to-SQL" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
 </p>
 
 ### Developer Tools
